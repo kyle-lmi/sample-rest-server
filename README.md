@@ -1,8 +1,8 @@
 # Sample Rest Server
 
-This Java project contains a basic rest server example (based on the Spark micro framework: http://sparkjava.com/) that I am using to run some CI/CD testing with Jenkins (http://jenkins-ci.com) and CloudBees Enterprise Jenkins (https://www.cloudbees.com/products/cloudbees-jenkins-enterprise).
+This Java project contains a basic rest server example (based on the Spark micro framework: http://sparkjava.com/) that is useful for demonstrating different pipeline features with Jenkins (http://jenkins-ci.com) and CloudBees Enterprise Jenkins (https://www.cloudbees.com/products/cloudbees-jenkins-enterprise) as part of the Introduction to Declarative Pipelines workshop found here: https://github.com/PipelineHandsOn/intro-to-declarative-pipeline.
 
-**Note**: There is nothing to see here. Move along.
+**Note**: Please **fork** this repository to your own Github organization before editing.
 
 # License
 
@@ -19,5 +19,4 @@ The code in this repository is not sponsored or supported by Cloudbees, Inc.
  
 # Questions, Feedback, Pull Requests Etc.
 
-If you have any questions, feedback, suggestions, etc. please submit them via issues or, even better, submit a Pull Request!
- 
+If you have any questions, feedback, suggestions, etc. please submit them via issues or, even better, submit a Pull Request! 

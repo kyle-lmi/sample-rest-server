@@ -32,6 +32,11 @@ pipeline {
             }
          }
       }
+            container('maven8') {
+               sh 'mvn clean package'
+            }
+         }
+      }
    }
   
 }
