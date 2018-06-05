@@ -8,6 +8,14 @@ pipeline {
    }
 
    stages {
+      stage('Masters Tests') {
+         when {
+            branch 'master'
+         }
+         steps {
+            echo "Run the master tests!"
+         }
+      }
       stage('Development Tests') {
          when {
             beforeAgent true
